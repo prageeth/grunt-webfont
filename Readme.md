@@ -1,3 +1,7 @@
+# Fork of [Grunt Webfont](https://www.npmjs.com/package/grunt-webfont)
+
+Fixing vulnerabilities caused by old npm dependencies.
+
 # SVG to webfont converter for Grunt
 
 [![Powered by You](http://sapegin.github.io/powered-by-you/badge.svg)](http://sapegin.github.io/powered-by-you/)
